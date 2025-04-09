@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+nltk
+streamlit
+Pillow
+requests
+textblob
+psutil
+# pip install -r requirements.txt

@@ -1,0 +1,5 @@
+data/photos.tsv filter=lfs diff=lfs merge=lfs -text
+data/collections.tsv filter=lfs diff=lfs merge=lfs -text
+data/colors.tsv filter=lfs diff=lfs merge=lfs -text
+data/conversions.tsv filter=lfs diff=lfs merge=lfs -text
+data/keywords.tsv filter=lfs diff=lfs merge=lfs -text

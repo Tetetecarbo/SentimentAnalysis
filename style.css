@@ -1,0 +1,26 @@
+body {
+  background-color: #FF5757; /* Bright red background */
+  color: #000000; /* Black text for better readability */
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.stApp {
+  max-width: 800px;
+  margin: auto;
+  background-color: transparent; /* Ensures the app background matches the body */
+}
+
+.stTextInput, .stTextArea {
+  background-color: #f0f0f0; /* Light grey background for input fields */
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  color: black; /* Black text color */
+  opacity: 0.8; /* Slightly transparent */
+}
+
+.stImage {
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
